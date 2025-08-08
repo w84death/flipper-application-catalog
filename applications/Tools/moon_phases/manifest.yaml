@@ -2,7 +2,7 @@ sourcecode:
   type: git
   location:
     origin: https://github.com/w84death/moon-phases.git
-    commit_sha: 523285ca6c7edd85385cf07d8755ad542c71e326
+    commit_sha: 5d6380dccf5a7fa56abac6593a6d90c3e6777b95
 description: "A simple application to display the current phase of the moon along with additional lunar information."
 version: 1.0
 changelog: "@CHANGELOG.md"
